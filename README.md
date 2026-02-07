@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Américo Lucas Vilefort</h1>
-<h3 align="center">Data Analyst Intern @ Radio Memory | Information Systems Student @ UFVJM</h3>
+<h3 align="center">Data Analyst Intern Radio Memory | Information Systems Student UFVJM</h3>
 
 - 🔭 I’m currently working on [Energias em Batalha (TCG Game)](https://github.com/AmericoLV/Energias-em-Batalha)
 
