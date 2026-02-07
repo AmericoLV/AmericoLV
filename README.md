@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/americo-vilefort/](https://www.linkedin.com/in/americo-vilefort/)
 
-- ⚡ Fun fact **I create scripts and extract data from game worlds during the day and at night.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/americo-vilefort/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="americo-vilefort/" height="30" width="40" /></a>
