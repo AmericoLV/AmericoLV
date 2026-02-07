@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Américo Lucas Vilefort</h1>
 <h3 align="center">Data Analyst Intern Radio Memory | Information Systems Student UFVJM</h3>
 
-- 🔭 I’m currently working on [Energias em Batalha (TCG Game)](https://github.com/AmericoLV/Energias-em-Batalha)
+Information Systems student at UFVJM with practical experience in Data Analysis and Engineering. Currently focused on
+ETL processes, Python automation, and SQL/MySQL database manipulation.
+
+- 🔭 Emphasis [Energias em Batalha (TCG Game)](https://github.com/AmericoLV/Energias-em-Batalha)
 
 - 🌱 I’m currently learning **AWS Lambda, Cloud Computing, Advanced SQL & Business Intelligence**
 
