@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AWS Lambda, Cloud Computing, Advanced SQL & Business Intelligence**
 
-- 🤝 I’m looking for help with **Advanced AWS Cloud Architecture & Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AmericoLV](https://github.com/AmericoLV)
 
 - 💬 Ask me about **Python, SQL, ETL Pipelines, Game Dev (Unity/C#) & Data Visualization**
