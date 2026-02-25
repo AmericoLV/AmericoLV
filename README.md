@@ -2,13 +2,13 @@
 <h3 align="center">Data Analyst Intern Radio Memory | Information Systems Student UFVJM</h3>
 
 Information Systems student at UFVJM with practical experience in Data Analysis and Engineering. Currently focused on
-ETL processes, Python automation, and SQL/MySQL database manipulation.
+ETL processes, Python automation, and SQL/MySQL database manipulation. Experienced with AWS tools.
 
 - 🔭 Emphasis [Energias em Batalha (TCG Game)](https://github.com/AmericoLV/Energias-em-Batalha)
 
 - 🌱 I’m currently learning **AWS Lambda, Cloud Computing, Advanced SQL & Business Intelligence**
 
-- 💬 Ask me about **Python, SQL, ETL Pipelines, Game Dev (Unity/C#) & Data Visualization**
+- 💬 Ask me about **Python, SQL, ETL Pipelines, Game Dev (Unity/C#) & AWS**
 
 - 📫 How to reach me **americo.contato@gmail.com**
 
